@@ -161,7 +161,6 @@ export default {
   z-index: 10;
 
   /* add blur */
-
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
 }
