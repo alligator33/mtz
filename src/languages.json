@@ -1,0 +1,237 @@
+[
+  {
+    "code": "af",
+    "title": "Afrikaans",
+    "icon": "🇿🇦",
+    "escapedIcon": "\uD83C\uDDFF\uD83C\uDDE6"
+  },
+  {
+    "code": "sq",
+    "title": "Albanian",
+    "icon": "🇦🇱",
+    "escapedIcon": "\uD83C\uDDE6\uD83C\uDDF1"
+  },
+  {
+    "code": "ar",
+    "title": "Arabic",
+    "icon": "🇸🇦",
+    "escapedIcon": "\uD83C\uDDF8\uD83C\uDDE6"
+  },
+  {
+    "code": "hy",
+    "title": "Armenian",
+    "icon": "🇦🇲",
+    "escapedIcon": "\uD83C\uDDE6\uD83C\uDDEB"
+  },
+  {
+    "code": "az",
+    "title": "Azerbaijani",
+    "icon": "🇦🇿",
+    "escapedIcon": "\uD83C\uDDE6\uD83C\uDDFF"
+  },
+  {
+    "code": "eu",
+    "title": "Basque",
+    "icon": "🇪🇸",
+    "escapedIcon": "\uD83C\uDDEA\uD83C\uDDF8"
+  },
+  {
+    "code": "be",
+    "title": "Belarusian",
+    "icon": "🇧🇾",
+    "escapedIcon": "\uD83C\uDDE7\uD83C\uDDFE"
+  },
+  {
+    "code": "bg",
+    "title": "Bulgarian",
+    "icon": "🇧🇬",
+    "escapedIcon": "\uD83C\uDDE7\uD83C\uDDEC"
+  },
+  {
+    "code": "ca",
+    "title": "Catalan",
+    "icon": "🇪🇸",
+    "escapedIcon": "\uD83C\uDDE8\uD83C\uDDE9"
+  },
+  {
+    "code": "zh-CN",
+    "title": "Chinese (Simplified)",
+    "icon": "🇨🇳",
+    "escapedIcon": "\uD83C\uDDE8\uD83C\uDDF3"
+  },
+  {
+    "code": "zh-TW",
+    "title": "Chinese (Traditional)",
+    "icon": "🇹🇼",
+    "escapedIcon": "\uD83C\uDDF9\uD83C\uDDFC"
+  },
+  {
+    "code": "hr",
+    "title": "Croatian",
+    "icon": "🇭🇷",
+    "escapedIcon": "\uD83C\uDDED\uD83C\uDDF7"
+  },
+  {
+    "code": "cs",
+    "title": "Czech",
+    "icon": "🇨🇿",
+    "escapedIcon": "\uD83C\uDDE8\uD83C\uDDFF"
+  },
+  {
+    "code": "da",
+    "title": "Danish",
+    "icon": "🇩🇰",
+    "escapedIcon": "\uD83C\uDDE9\uD83C\uDDF0"
+  },
+  {
+    "code": "en",
+    "title": "English",
+    "icon": "🇬🇧",
+    "escapedIcon": "\uD83C\uDDEC\uD83C\uDDE7"
+  },
+  {
+    "code": "et",
+    "title": "Estonian",
+    "icon": "🇪🇪",
+    "escapedIcon": "\uD83C\uDDEA\uD83C\uDDEA"
+  },
+  {
+    "code": "tl",
+    "title": "Filipino",
+    "icon": "🇵🇭",
+    "escapedIcon": "\uD83C\uDDED\uD83C\uDDF1"
+  },
+  {
+    "code": "fi",
+    "title": "Finnish",
+    "icon": "🇫🇮",
+    "escapedIcon": "\uD83C\uDDEB\uD83C\uDDEE"
+  },
+  {
+    "code": "fr",
+    "title": "French",
+    "icon": "🇫🇷",
+    "escapedIcon": "\uD83C\uDDEB\uD83C\uDDF7"
+  },
+  {
+    "code": "de",
+    "title": "German",
+    "icon": "🇩🇪",
+    "escapedIcon": "\uD83C\uDDE9\uD83C\uDDEA"
+  },
+  {
+    "code": "el",
+    "title": "Greek",
+    "icon": "🇬🇷",
+    "escapedIcon": "\uD83C\uDDEC\uD83C\uDDF7"
+  },
+  {
+    "code": "hu",
+    "title": "Hungarian",
+    "icon": "🇭🇺",
+    "escapedIcon": "\uD83C\uDDED\uD83C\uDDFA"
+  },
+  {
+    "code": "id",
+    "title": "Indonesian",
+    "icon": "🇮🇩",
+    "escapedIcon": "\uD83C\uDDEE\uD83C\uDDE9"
+  },
+  {
+    "code": "ga",
+    "title": "Irish",
+    "icon": "🇮🇪",
+    "escapedIcon": "\uD83C\uDDEE\uD83C\uDDEA"
+  },
+  {
+    "code": "it",
+    "title": "Italian",
+    "icon": "🇮🇹",
+    "escapedIcon": "\uD83C\uDDEE\uD83C\uDDF9"
+  },
+  {
+    "code": "ja",
+    "title": "Japanese",
+    "icon": "🇯🇵",
+    "escapedIcon": "\uD83C\uDDEF\uD83C\uDDF5"
+  },
+  {
+    "code": "ko",
+    "title": "Korean",
+    "icon": "🇰🇷",
+    "escapedIcon": "\uD83C\uDDF0\uD83C\uDDF7"
+  },
+  {
+    "code": "lt",
+    "title": "Lithuanian",
+    "icon": "🇱🇹",
+    "escapedIcon": "\uD83C\uDDF1\uD83C\uDDF9"
+  },
+  {
+    "code": "ms",
+    "title": "Malay",
+    "icon": "🇲🇾",
+    "escapedIcon": "\uD83C\uDDF2\uD83C\uDDFE"
+  },
+  {
+    "code": "no",
+    "code": "no",
+    "title": "Norwegian",
+    "icon": "🇳🇴",
+    "escapedIcon": "\uD83C\uDDF3\uD83C\uDDF4"
+  },
+  {
+    "code": "pl",
+    "title": "Polish",
+    "icon": "🇵🇱",
+    "escapedIcon": "\uD83C\uDDF5\uD83C\uDDF1"
+  },
+  {
+    "code": "pt",
+    "title": "Portuguese",
+    "icon": "🇵🇹",
+    "escapedIcon": "\uD83C\uDDF5\uD83C\uDDF9"
+  },
+  {
+    "code": "ro",
+    "title": "Romanian",
+    "icon": "🇷🇴",
+    "escapedIcon": "\uD83C\uDDF7\uD83C\uDDF4"
+  },
+  {
+    "code": "ru",
+    "title": "Russian",
+    "icon": "🇷🇺",
+    "escapedIcon": "\uD83C\uDDF7\uD83C\uDDFA"
+  },
+  {
+    "code": "es",
+    "title": "Spanish",
+    "icon": "🇪🇸",
+    "escapedIcon": "\uD83C\uDDEA\uD83C\uDDF8"
+  },
+  {
+    "code": "sv",
+    "title": "Swedish",
+    "icon": "🇸🇪",
+    "escapedIcon": "\uD83C\uDDF8\uD83C\uDDEA"
+  },
+  {
+    "code": "th",
+    "title": "Thai",
+    "icon": "🇹🇭",
+    "escapedIcon": "\uD83C\uDDF9\uD83C\uDDED"
+  },
+  {
+    "code": "tr",
+    "title": "Turkish",
+    "icon": "🇹🇷",
+    "escapedIcon": "\uD83C\uDDF9\uD83C\uDDF7"
+  },
+  {
+    "code": "uk",
+    "title": "Ukrainian",
+    "icon": "🇺🇦",
+    "escapedIcon": "\uD83C\uDDFA\uD83C\uDDE6"
+  }
+]
