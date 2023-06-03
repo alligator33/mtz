@@ -160,6 +160,9 @@ export default {
   background-color: rgba(39, 39, 42, 0.4);
   z-index: 10;
 
+
+
+  /* / */
   /* add blur */
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
