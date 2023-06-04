@@ -14,7 +14,6 @@
               from the video provided.
             </h3>
 
-
             Traders make steady profits under Arbitrage but due to the workforce
             involved, they don't make that much. This is where MTZ comes in; We
             have developed an automated system that can not only watch any asset
@@ -23,9 +22,11 @@
             will be remitted to your broker account daily for 14 days
           </div>
           <div>
-            <a   target="_blank"         href="https://youtu.be/2wbEOAJbb28">
-            <img src="https://i3.ytimg.com/vi/2wbEOAJbb28/maxresdefault.jpg"/>       
-        </a>
+            <a target="_blank" href="https://youtu.be/2wbEOAJbb28">
+              <img
+                src="https://i3.ytimg.com/vi/2wbEOAJbb28/maxresdefault.jpg"
+              />
+            </a>
           </div>
         </div>
       </div>
@@ -104,6 +105,5 @@ export default {
   components: { PricingTableSection },
 };
 </script>
-
 
 //

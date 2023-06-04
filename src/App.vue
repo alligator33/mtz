@@ -52,6 +52,7 @@ export default {
             const pages = [
                 "contact",
                 "about",
+                "nftPage",
                 "404"
             ];
             return !pages.includes(this.$route.name);

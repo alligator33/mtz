@@ -1,5 +1,19 @@
 <template>
-  <div class="">
+  <div class="bg-white">
+    <div class="flex py-8 flex-col justify-center lg:grid lg:grid-cols-2 ">
+      <div class="p-4">
+        <h3 class="font-semibold text-2xl pb-4">NFT Trading</h3>
+        <p class="text-lg">Be a part of Savvy collectors, Buy trending high-valued NFTs in groups and earn when your art resales. Minimum 150% ROI as a share-owner.</p>
+      </div>
+      <div class="flex justify-center">
+            <a target="_blank" href="https://www.youtube.com/watch?v=9DQvkylJ86w">
+              <img
+                src="http://i3.ytimg.com/vi/9DQvkylJ86w/hqdefault.jpg"
+              />
+            </a>
+          </div>
+    </div>
+  
     <template v-if="!isLoading">
       <div class="container py-20">
         <div
@@ -63,7 +77,6 @@ h2 {
 </style>
 
 <script>
-
 import TestimonialComponent from "../components/home/TestimonialComponent.vue";
 
 // import {fetchNFTs} from "../store/fetchNft";
@@ -107,8 +120,7 @@ export default {
           name: "Sophia Montes",
           description: `NFT trading helped me meet people who love digital painting as much as I do. It's genuinely enjoyable because of the friendly community and easy trading procedure.`,
         },
-      ]
-      
+      ],
     };
   },
 
