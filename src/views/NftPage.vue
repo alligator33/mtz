@@ -1,5 +1,6 @@
 <template>
-  <div class="bg-white">
+ <div class="bg-white">
+  <div class="bg-white container mx-auto">
     <div class="flex py-8 flex-col justify-center lg:grid lg:grid-cols-2 ">
       <div class="p-4">
         <h3 class="font-semibold text-2xl pb-4">NFT Trading</h3>
@@ -68,6 +69,7 @@
     </div>
     <TestimonialComponent :testimonials="testimonials" />
   </div>
+ </div>
 </template>
 
 <style lang="scss" scoped>
